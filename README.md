@@ -2,7 +2,7 @@
 <br />
 <div align="center">
   
-  <img src="https://github.com/vdutts7/dump/blob/main/socratyc-logo.png" alt="Logo" width="160" height="85">
+  <img src="https://github.com/vdutts7/dump/blob/main/socratyc-logo.png" alt="Logo" width="240" height="125">
   
   
   <h3 align="center">Socratyc</h3>
