@@ -3,7 +3,7 @@
 <div align="center">
   <img src="https://github.com/vdutts7/dump/blob/main/socratyc-logo.png" alt="Logo" width="240" height="125">
 
-    <h1 align="center">
+  <h1 align="center">
         Socratyc
     </h1>
     <p align="center"> 
